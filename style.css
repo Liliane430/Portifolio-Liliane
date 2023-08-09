@@ -4,7 +4,7 @@
 .bgimage {
     height: 100vh;
     position: relative;
-    background: url("img/heroImagem.jpg");
+    background: url("img/heroImagem1.jpg");
     background-size: cover;
 }
 .heroTitle {
